@@ -1,2 +1,2 @@
 # WinForms
-Control library for windows forms platform
+Learning windows forms platform
